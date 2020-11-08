@@ -1,4 +1,4 @@
-mtadese - AWS Amlify version can be viewed here - https://master.d136vi9k0lkjqa.amplifyapp.com/
+## AWS Amplify version can be viewed here - https://master.d136vi9k0lkjqa.amplifyapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
